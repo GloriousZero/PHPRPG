@@ -1,4 +1,4 @@
-Welcome to Randomly Generated Role Playing Game
+PHP RPG
 
 To install, place all files into a localhost server, and open Gamestart.php in a browser.
 
